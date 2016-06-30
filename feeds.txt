@@ -1,7 +1,2 @@
-http://dhenage.libsyn.com/rss
-http://feeds.feedburner.com/Cyberspeak
-https://feeds.soundcloud.com/users/soundcloud:users:83181944/sounds.rss
-http://podcast.securityweekly.com/rss
-https://archive.org/services/collection-rss.php?collection=securityjustice
 https://feeds.feedburner.com/RevisionistHistory
 http://billburr.libsyn.com/rss
