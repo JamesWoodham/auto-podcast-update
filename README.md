@@ -9,3 +9,7 @@ Automatically checks and downloads podcasts listed in feeds.txt, then uploads th
 5. Change MOUNT_PATH in mount_mp3.sh to wherever you want the mp3 player to be mounted.
 6. You may need to change DEST_PATH to reflect your mp3 players file system. For a Sony Walkman is it /MUSIC and we create a podcasts folder.
 7. Change the dev variable in podcast_rss.py to your installation path.
+
+
+#Adding more feeds
+Copy and paste the RSS URL into a new line of feeds.txt
